@@ -1,0 +1,6 @@
+﻿{
+  "name": "my-first-docker-app",
+  "version": "1.0.0",
+  "description": "My first Dockerized app",
+  "main": "app.js"
+}
